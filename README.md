@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anilkr1489
+- 👋 Hi, I’m Anilkumar
 - 👀 I’m interested in ...learning java fulstag
 - 🌱 I’m currently learning ...java basic concepts  
 - 💞️ I’m looking to collaborate on ...github
